@@ -7,5 +7,5 @@ routes(app)
 const PORT = 3000;
 
 app.listen(PORT, () => {
-    console.log(`Servidor escutando na ${PORT}`);
+    console.log(`Servidor escutando na ${PORT}`)
 });
